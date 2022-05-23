@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="./assets/secret.svg">
 
 <a href="https://app.daily.dev/takkiraz"><img src="./assets/devcard.svg" width="400" alt="Tolga Akkiraz's Dev Card"/></a>
-<img src="./assets/secret.svg">
