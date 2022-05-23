@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/takkiraz"><img src="https://github.com/takkiraz/takkiraz/blob/main/devcard.svg" width="400" alt="Tolga Akkiraz's Dev Card"/></a>
+<a href="https://app.daily.dev/takkiraz"><img src="https://github.com/takkiraz/takkiraz/blob/main/assets/devcard.svg" width="400" alt="Tolga Akkiraz's Dev Card"/></a>
+
+<img src="https://github.com/takkiraz/takkiraz/blob/main/assets/secret.svg">
